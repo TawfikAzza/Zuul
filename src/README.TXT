@@ -1,3 +1,8 @@
+Project Modified as part of the CS Education.
+This project is part of the course "Refactoring and Design".
+All rights and cookies reserved to the authors below.
+
+
 Project: zuul-bad
 Authors: Michael Kölling and David J. Barnes
 
